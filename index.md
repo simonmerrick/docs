@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: minimal
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
@@ -38,3 +38,18 @@ If you want to maintain your docs in the `docs` directory of an existing project
 <inline code snippet>Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Heading with `<inline code snippet>` in it.
+
+Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Heading with `<inline code snippet>` in it.
+
+<div class="code-example" markdown="1">
+
+[Link button](https://just-the-docs.com){: .btn }
+
+</div>
+```markdown
+[Link button](https://just-the-docs.com){: .btn }
+```
+
+
