@@ -35,6 +35,6 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
 
-<inline code snippet>Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</inline code snippet>
+<inline code snippet>Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Heading with `<inline code snippet>` in it.
